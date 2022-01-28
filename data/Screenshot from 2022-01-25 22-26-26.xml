@@ -1,0 +1,38 @@
+<annotation>
+	<folder>1</folder>
+	<filename>Screenshot from 2022-01-25 22-26-26.png</filename>
+	<path>/home/melihemin/Desktop/dinocv/data/1/Screenshot from 2022-01-25 22-26-26.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>131</ymin>
+			<xmax>56</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>140</ymin>
+			<xmax>139</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>
